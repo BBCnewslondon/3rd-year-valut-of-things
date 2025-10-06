@@ -5,7 +5,7 @@ einstein-online.info
 
 Gravitational wave sources « EO-Topics « - Einstein-Online
 
-Opens in a new window](https://www.einstein-online.info/en/spotlights/gravwav/gravwav-sub02/)[
+Opens in a new window]([Gravitational waves « EO-Topics « Einstein-Online](https://www.einstein-online.info/en/spotlights/gravwav/))[
 
 ![](https://t2.gstatic.com/faviconV2?url=https://www.ligo.caltech.edu/&client=BARD&type=FAVICON&size=256&fallback_opts=TYPE,SIZE,URL)
 
@@ -13,7 +13,7 @@ ligo.caltech.edu
 
 Why Detect Them? | LIGO Lab | Caltech
 
-Opens in a new window](https://www.ligo.caltech.edu/page/why-detect-gw)[
+Opens in a new window](https://www.ligo.caltech.edu)[
 
 ![](https://t1.gstatic.com/faviconV2?url=https://news.fullerton.edu/&client=BARD&type=FAVICON&size=256&fallback_opts=TYPE,SIZE,URL)
 
