@@ -8,10 +8,15 @@ Gravitational waves are formed in a similar manner to electromagnetic waves. How
 
 The detection of gravitational wave strain  predicted to be $h\sim 10^{-21}$ for events such as the events previously stated. In order to measure this we are essentially measuring a displacement which is less than 0.001% the width of a proton. Detectors like LIGO, Virgo and KAGRA use power recycled , Fabry-Perot Michelson interferometers[2]. These work by splitting laser light and sending it down particular arms, where it is then made to resonate within Fabry-Perot cavities, which just increases the light's travel time before it recombines by a factor of 10. This causes the phase shift induced by any passing Gravitational wave to be amplified. The wave will strain the arms ever so slightly, breaking the tuned destructive interference and sending the signal to a photodetector. 
 
-The main challenge is trying to mitigate noise. At low frequencies 
+The main challenge is trying to mitigate noise. At low frequencies $(<40 \space\text{Hz})$ This is seismic noise, which is which is overcome by suspending the 40kg test mass mirrors as multi-stage pendulums in a deep vacuum. At high frequencies ($>150$ Hz), the fundamental limit is quantum "shot noise" from the photon counting statistics. Squeezed light is now injected to reduce this quantum noise, pushing the detectors' sensitivity ever closer to their fundamental limits.
+
+---
+# Observations
+The first recorded instance of a Gravitational wave was GW150914 [3] was a "chirp" signal cuased by two stellar mass black holes merging. This proved Einstein's theory and proved the existence of binary black hole systems. Ever since LIGO, Virgo and KAGRA has recorded over 90 detections, giving more insight on black holes and neutron star systems.
 
 ---
 
 
 [1] C. W. Misner, K. S. Thorne, and J. A. Wheeler, _Gravitation_. Princeton University Press, 2017, ch. 35.
 [2] J. Aasi et al. (LIGO Scientific Collaboration), "Advanced LIGO," _Classical and Quantum Gravity_, vol. 32, no. 7, p. 074001, 2015. DOI: 10.1088/0264-9381/32/7/074001.
+[3] B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration), "Observation of Gravitational Waves from a Binary Black Hole Merger," _Physical Review Letters_, vol. 116, no. 6, p. 061102, 2016. DOI: 10.1103/PhysRevLett.116.061102.
