@@ -1,0 +1,1 @@
+1. $$\text{Show that  }  \frac{d\langle A\rangle}{dt} =\frac{i}{\hbar}\langle[\hat{H},\hat{A}]\rangle$$
