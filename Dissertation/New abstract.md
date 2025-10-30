@@ -14,9 +14,14 @@ The main challenge is trying to mitigate noise. At low frequencies $(<40 \space\
 # Observations
 The first recorded instance of a Gravitational wave was GW150914 [3] was a "chirp" signal cuased by two stellar mass black holes merging. This proved Einstein's theory and proved the existence of binary black hole systems. Ever since LIGO, Virgo and KAGRA has recorded over 90 detections, giving more insight on black holes and neutron star systems.
 
+The most significant event would be GW170817[4] This was a binary neutron star merger which could be seen with both light and detectable Gravitational waves. The near simultaneous gamma ray burst signal and the gravitational wave signal proved another aspect of general relativity. That being the gravitational waves travel at the speed of light. This was found to be accurate up to the 15th decimal place. This event also lead to evidence to prove that Binary neutron star mergers are the site of r-process nucleosynthesis. Which is an event responsible for the formation of some of the heavier metals in the universe like gold and platinum. Furthermore the detected gravitational waves allowed us to determine the distance and the electromagnetic data found the galaxies red shift. Together this event allowed us to measure the Hubble constant $H_{0}$
+[5]
+
 ---
 
 
 [1] C. W. Misner, K. S. Thorne, and J. A. Wheeler, _Gravitation_. Princeton University Press, 2017, ch. 35.
 [2] J. Aasi et al. (LIGO Scientific Collaboration), "Advanced LIGO," _Classical and Quantum Gravity_, vol. 32, no. 7, p. 074001, 2015. DOI: 10.1088/0264-9381/32/7/074001.
 [3] B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration), "Observation of Gravitational Waves from a Binary Black Hole Merger," _Physical Review Letters_, vol. 116, no. 6, p. 061102, 2016. DOI: 10.1103/PhysRevLett.116.061102.
+[4]B. P. Abbott et al. (LIGO Scientific Collaboration et al.), "Multi-messenger Observations of a Binary Neutron Star Merger," _The Astrophysical Journal Letters_, vol. 848, no. 2, p. L12, 2017. DOI: 10.3847/2041-8213/aa91c9.
+[5]B. P. Abbott et al. (LIGO Scientific Collaboration et al.), "A gravitational-wave standard siren measurement of the Hubble constant," _Nature_, vol. 551, no. 7678, pp. 85–88, 2017. DOI: 10.1038/nature24471.
